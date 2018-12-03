@@ -1,6 +1,5 @@
 package com.codeoftheweb.salvo;
 import javax.persistence.*;
-
 @Entity
     public class Player<onetoMany> {
 
